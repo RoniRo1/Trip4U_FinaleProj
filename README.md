@@ -5,3 +5,5 @@ Demo Credentials for Project Access:
 Username: Roni
 
 Password: Roni21
+
+Check out the usability video to see the platform in action: https://youtu.be/YY0WxHnqIMw
